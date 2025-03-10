@@ -1,4 +1,4 @@
-# WebGLInput
+# WebGLInput(WebGL端的安卓键盘)
 
 IME for Unity WebGL ( Support TextMesh Pro from Unity2018.2 )
 
